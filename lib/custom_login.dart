@@ -36,7 +36,7 @@ import 'package:telephony/telephony.dart';
 part 'social_login/apple_login/apple_login.dart';
 part 'social_login/facebook_login/facebook_login.dart';
 part 'social_login/google_login/google_login.dart';
-part 'social_login/linkedin_login/linkedIn_login.dart';
+part 'social_login/linkedin_login/linkedin_login.dart';
 part 'custom_login_main/custom_login.dart';
 part 'otp_setup/otp_setup.dart';
 part 'otp_setup/timer_mixin.dart';
